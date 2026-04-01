@@ -1,4 +1,4 @@
-# Image Converter
+# Image Converter 🖼️🔄
 
 API REST desenvolvida com Spring Boot e arquitetura de microsserviços para conversão assíncrona de imagens (PNG, JPEG, WEBP). 
 Utiliza RabbitMQ para comunicação entre a API e um worker de processamento em background, com armazenamento das imagens no AWS S3.
